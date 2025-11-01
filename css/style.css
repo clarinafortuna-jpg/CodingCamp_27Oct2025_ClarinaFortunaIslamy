@@ -1,3 +1,5 @@
-#item1{
-    background-color: brown;    
-}
+body {
+    justify-items:center;
+    align-content:center;
+    height:100vh;
+} 
